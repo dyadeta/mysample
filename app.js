@@ -1,0 +1,1 @@
+consosole.log{"Hello};
