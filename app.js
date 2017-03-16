@@ -1,1 +1,1 @@
-consosole.log{"Hello};
+consosole.log{'Hello'};
